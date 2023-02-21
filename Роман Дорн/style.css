@@ -1,0 +1,36 @@
+a {
+    color: gold;
+}
+
+h1 {
+    color: gold;
+    text-align: center;
+}
+.menu a {
+    text-decoration: none;
+    list-style: none;
+}
+
+.menu li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.menu {
+    border-style: groove;
+    background-color: darkblue;
+}
+
+.product {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+body {
+    background-image: url(img/black_thai815.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
