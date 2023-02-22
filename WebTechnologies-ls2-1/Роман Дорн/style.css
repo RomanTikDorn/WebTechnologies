@@ -1,0 +1,42 @@
+a {
+    text-decoration: none;
+    list-style: none;
+    color: gold;
+    text-align: center;
+}
+
+h1 {
+    color: gold;
+    text-align: center;
+}
+.menu a {
+    text-decoration: none;
+    list-style: none;
+    color: gold;
+}
+
+.menu li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.content {
+    border-style: groove;
+    background-color: darkblue;
+    
+}
+
+
+.product {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+body {
+    background-image: url(img/1644920579_3-klublady-ru-p-krasivaya-podacha-desertov-v-restoranakh-f-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

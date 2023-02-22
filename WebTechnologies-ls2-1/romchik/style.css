@@ -1,0 +1,33 @@
+body {
+    background-color: silver;
+}
+
+h1 {
+    color: gold;
+    text-align: center;
+    font-size: 24;
+    font-style:oblique;
+}
+
+.menu {
+    border-style: groove;
+    background-color: darkblue;
+}
+
+.menu a {
+    text-decoration: none;
+    list-style: none;
+    color: gold;
+}
+
+.galery {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.text {
+    color: gold;
+    border-style: groove;
+    background-color: saddlebrown;
+}
